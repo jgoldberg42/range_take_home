@@ -1,0 +1,7 @@
+month_start,plan_group,opening_active_including_comp100,opening_cancellations_including_comp100,churn_including_comp100_pct,comp100_opening_subscriptions,opening_active_excluding_comp100,opening_cancellations_excluding_comp100,churn_excluding_comp100_pct,comp100_impact_percentage_points
+2026-06-01,all plans,7026,177,2.52,34,6992,177,2.53,-0.01
+2026-06-01,annual,1786,22,1.23,0,1786,22,1.23,0.0
+2026-06-01,monthly,5240,155,2.96,34,5206,155,2.98,-0.02
+2026-08-01,all plans,8324,328,3.94,35,8289,328,3.96,-0.02
+2026-08-01,annual,2015,20,0.99,0,2015,20,0.99,0.0
+2026-08-01,monthly,6309,308,4.88,35,6274,308,4.91,-0.03

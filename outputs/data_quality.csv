@@ -1,0 +1,13 @@
+check_name,check_value
+customer_rows,11461
+subscription_rows,11681
+duplicate_customer_ids,0
+duplicate_subscription_ids,0
+subscriptions_without_customer_match,0
+subscriptions_missing_start_date,0
+cancellations_before_start,25
+status_cancel_date_mismatch,72
+active_status_with_cancel_date,0
+canceled_status_without_cancel_date,72
+customers_missing_channel,192
+multiple_subscriptions_per_customer,220

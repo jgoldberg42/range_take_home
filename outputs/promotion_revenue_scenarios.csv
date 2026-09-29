@@ -1,0 +1,4 @@
+monthly_churn_rate,assumed_monthly_list_price_usd,assumed_discount_rate,assumed_discounted_months,full_price_months_in_projection,projected_promo_period_revenue_usd,projected_post_promo_revenue_usd,projected_15_month_promo_gross_revenue_usd,projected_15_month_full_price_gross_revenue_usd,projected_discount_concession_usd,post_promo_revenue_less_discount_concession_usd,post_promo_revenue_to_discount_concession_ratio
+0.03,59.0,0.50,3,12,85.87,549.53,635.4,721.27,85.87,463.66,6.4
+0.05,59.0,0.50,3,12,84.15,465.02,549.17,633.32,84.15,380.87,5.53
+0.08,59.0,0.50,3,12,81.61,363.14,444.75,526.36,81.61,281.53,4.45
